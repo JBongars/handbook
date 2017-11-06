@@ -1,0 +1,17 @@
+{
+  "name": "Best Practices",
+  "homepage": "https://github.com/JBongars/handbook",
+  "authors": [
+    "Julien Bongars <julienbongars23@gmail.com>"
+  ],
+  "description": "",
+  "main": "server/app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
